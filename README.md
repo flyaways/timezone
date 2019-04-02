@@ -1,5 +1,6 @@
-# timezone
+# timezone 
 
+## List all zone of local support
 
 # usage 
 go build && ./timezone
